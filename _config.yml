@@ -1,5 +1,5 @@
-title: An Introduction to Solving Biological Problems with Python
-description: based on the University of Cambridge Python Course
+title: An Introduction to Solving Biological Problems with Galaxy
+description: with a focus on RNA-Seq analysis using a case study
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
