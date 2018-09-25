@@ -1,5 +1,5 @@
 ## Course Description
-This course provides a practical introduction to Galaxy for the complete novice. Participants are lead through core aspects of Galaxy with a focus on analysis of RNA-seq data, using a case study.
+This course provides a practical introduction to Galaxy for the complete novice. Participants are led through core aspects of Galaxy with a focus on analysis of RNA-seq data, using a case study.
 
 ![workshop pic](images/GalaxyWordCloud.png)
 
