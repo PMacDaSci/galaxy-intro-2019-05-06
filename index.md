@@ -33,10 +33,14 @@ After this course you should be able to:
 - [Introduction to Galaxy](http://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)
 
 ### Week 2
+<!---
 - [RNA-Seq (FASTQs to counts)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/limma-voom_fastqs_to_counts/tutorial.html)
+-->
 
 ### Week 3
+<!---
 - [RNA-Seq (differential expression)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/limma-voom/tutorial.html)
+-->
 
 ### Week 4
 - Recap/Q&A/Other tools
