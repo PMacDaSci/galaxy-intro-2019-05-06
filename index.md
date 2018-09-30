@@ -43,8 +43,9 @@ After this course you should be able to:
 -->
 
 ### Week 4
+<!---
 - Recap/Q&A/Other tools
-
+-->
 
 ## Course Presenters/Helpers
 
