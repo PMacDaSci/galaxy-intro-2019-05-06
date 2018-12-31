@@ -1,5 +1,5 @@
 ## Course Description
-This course provides a practical introduction to Galaxy for the complete novice. Participants are led through core aspects of Galaxy with a focus on analysis of RNA-seq data, using a case study.
+This course provides a practical introduction to Galaxy for the complete novice. Participants are lead through core aspects of Galaxy with a focus on analysis of RNA-seq data, using a case study.
 
 ![workshop pic](images/GalaxyWordCloud.png)
 
@@ -18,13 +18,13 @@ After this course you should be able to:
 - Introduction to Galaxy
 
 ### Week 2
-- RNA-Seq (FASTQs to counts)
+- RNA-Seq reads to counts
 
 ### Week 3
-- RNA-Seq (differential expression)
+- RNA-Seq counts to genes
 
 ### Week 4
-- Recap/Q&A/Other tools
+- RNA-Seq genes to pathways
 
 ## Course Materials
 
@@ -33,15 +33,14 @@ After this course you should be able to:
 - [Introduction to Galaxy](http://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)
 
 ### Week 2
-- [RNA-Seq (FASTQs to counts)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/limma-voom_fastqs_to_counts/tutorial.html)
+- [RNA-Seq reads to counts](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-reads_to_counts/tutorial.html)
 
 ### Week 3
-- [RNA-Seq (differential expression)](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/limma-voom/tutorial.html)
+- [RNA-Seq counts to genes](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)
 
 ### Week 4
-<!---
-- Recap/Q&A/Other tools
--->
+- [RNA-Seq genes to pathways](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)
+
 
 ## Course Presenters/Helpers
 
