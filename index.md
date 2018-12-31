@@ -33,7 +33,7 @@ After this course you should be able to:
 - [Introduction to Galaxy](http://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)
 
 ### Week 2
-- [RNA-Seq reads to counts](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-reads_to_counts/tutorial.html)
+- [RNA-Seq reads to counts](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)
 
 ### Week 3
 - [RNA-Seq counts to genes](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)
