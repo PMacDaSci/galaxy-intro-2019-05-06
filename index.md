@@ -14,33 +14,26 @@ After this course you should be able to:
 
 ## Topics Covered
 
-### Week 1
+### Day 1
 - Introduction to Galaxy
-
-### Week 2
 - RNA-Seq reads to counts
 
-### Week 3
+### Day 2
 - RNA-Seq counts to genes
-
-### Week 4
 - RNA-Seq genes to pathways
 
 ## Course Materials
 
 
-### Week 1
-- [Introduction to Galaxy](http://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-peaks2genes/tutorial.html)
-
-### Week 2
+### Day 1
+- [Introduction to Galaxy](https://galaxyproject.github.io/training-material/topics/introduction/tutorials/galaxy-intro-short/tutorial.html)
 - [RNA-Seq reads to counts](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)
 
-### Week 3
+### Day 2
+<!---
 - [RNA-Seq counts to genes](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)
-
-### Week 4
 - [RNA-Seq genes to pathways](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)
-
+--->
 
 ## Course Presenters/Helpers
 
@@ -54,4 +47,4 @@ This course is run by the Peter Mac Data Science Training team and uses material
 ## Useful Resources
 + [Galaxy Europe](https://usegalaxy.eu/)
 + [Galaxy Training](https://galaxyproject.github.io/training-material/)
-+ [Galaxy Biostars](https://biostar.usegalaxy.org/)
++ [Galaxy Help](https://help.galaxyproject.org)
