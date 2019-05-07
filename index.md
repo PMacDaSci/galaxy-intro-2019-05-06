@@ -30,10 +30,12 @@ After this course you should be able to:
 - [RNA-Seq reads to counts](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html)
 
 ### Day 2
-<!---
 - [RNA-Seq counts to genes](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-counts-to-genes/tutorial.html)
 - [RNA-Seq genes to pathways](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-genes-to-pathways/tutorial.html)
---->
+
+### Extra
+- [Visualization of RNA-Seq results with Volcano Plot](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-volcanoplot/tutorial.html)
+- [Visualization of RNA-Seq results with heatmap2](https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-viz-with-heatmap2/tutorial.html)
 
 ## Course Presenters/Helpers
 
